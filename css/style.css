@@ -249,13 +249,18 @@ html {
 		width: 70%;
 	}
 
+	.about-us-title {
+		margin-left: 46px;
+		text-align: left;
+	}
+
 	.specialist-scribd h2 {
-		text-align: center;
+		margin: 0 28px;
 	}
 
 	.specialist-scribd p {
 		text-align: justify;
-		margin: 0 29px;
+		margin: 28px 29px;
 	}
 
 	.offer {
@@ -302,14 +307,6 @@ html {
 
 	.contact a {
 		cursor: not-allowed;
-	}
-
-	.header-text-box {
-		margin-left: 0;
-	}
-
-	.header-btn {
-		margin-left: 0;
 	}
 
 	.header-btn:hover {
